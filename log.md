@@ -20,4 +20,14 @@
 1. [Bootstrap Assignment] (haven't pushed it to github)
 2. [AI Bootcamp Preparation Class] (https://github.com/Hlmdul/Bootcamp-AI-Ruangguru/tree/main/Preparation%20Class)
 
+### Day 2: November 28, 2023 
+
+**Today's Progress**: Python data structure and manipulation
+
+**Thoughts:** Having a blast learning (reviewing) python data structure today, ending my day feeling sort of satisfied with my coding progress today with a little bit more digging into Ubuntu (learing about some basic command). might do a little session of bootstrap before sleep.
+
+**Link to work:** 
+1. [Python Data Structure] (https://github.com/Hlmdul/DDP_HilmiAbdullah_0110223313_TI08/tree/main/DDP_Tugas10)
+
+
 
