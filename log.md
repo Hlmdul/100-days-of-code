@@ -29,5 +29,22 @@
 **Link to work:** 
 1. [Python Data Structure] (https://github.com/Hlmdul/DDP_HilmiAbdullah_0110223313_TI08/tree/main/DDP_Tugas10)
 
+Day 3: November 29, 2023
+Today's Progress: AI Bootcamp preparation Class (book 004 and 005)
+
+Thoughts: Planned the day trying to do 30 minutes of code and 1 hour of break pattern and end it on 7 pm. turns out i forgot today is the second day of AI Bootcamp Preparation Class Day 2 started on 7.30pm to 9.30pm. a very exhausting day of code.
+
+Link to work:
+
+[AI Bootcamp Preparation Class] (https://github.com/Hlmdul/Bootcamp-AI-Ruangguru/tree/main/Preparation%20Class)
+
+Day 4: November 30, 2023
+Today's Progress: 
+
+Thoughts: 
+
+Link to work:
+
+[AI Bootcamp Preparation Class] (https://github.com/Hlmdul/Bootcamp-AI-Ruangguru/tree/main/Preparation%20Class)
 
 
